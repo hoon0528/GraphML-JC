@@ -1,6 +1,6 @@
 ### Graph Representation Learning Journal Club
 
-We are a cross-departmental student-run group, whose aim is to bring together the Houston computational neuroscience community (BCM/RICE/UH/UTHealth). We meet weekly to discuss papers. Every other week will be focused on our [NeuroNex center project](https://www.bcm.edu/news/grants/nsf-grant-understand-the-brain) to infer graphical models for interactions between neurons and the world. Other weeks we will cover general topics in computational neuroscience, including cellular, systems, cognitive, stats, machine learning topics.
+TBD
 
 #### Meeting Time & Place
 
