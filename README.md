@@ -1,4 +1,4 @@
-### Graph Representation Learning Journal Club
+### Graph-based ML Journal Club
 
 TBD
 
