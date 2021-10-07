@@ -1,0 +1,320 @@
+- presenter: VCN (collaboration with Stanford)
+  date: Spring 2021
+  paper: Meeting schedule at the given link
+  url: https://virtualcompneurojc.github.io/
+  pdf: "None"
+  authors: ""
+  location: "Zoom meeting"
+  
+- presenter: VCN (collaboration with Stanford and Princeton)
+  date: Fall 2020
+  paper: Meeting schedule at the given link
+  url: https://virtualcompneurojc.github.io/
+  pdf: "None"
+  authors: ""
+  location: "Zoom meeting"
+  
+- presenter: Miachael Happ
+  date: 06.05.2020
+  paper: "Spanning the arc between optimality theories and data,"
+  url: "https://www.worldwideneuro.com/seminar-event.html?id=109"
+  pdf: "None"
+  authors: "Gasper Tkacik"
+  location: "Zoom meeting"
+  
+- presenter: Julia Steinberg
+  date: 05.29.2020
+  paper: "Fundamental Law of Memory Recall (Phys. Rev. Lett. 124, 018101 (2020)),"
+  url: "https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.124.018101"
+  pdf: "None"
+  authors: "Michelangelo Naim et. al."
+  location: "Zoom meeting"
+
+- presenter: Sugandha Sharma
+  date: 05.22.2020
+  paper: "The hippocampus as a predictive map,"
+  url: "https://www.youtube.com/watch?v=d2Eu_waWOEs"
+  pdf: "None"
+  authors: "Sam Gershman"
+  location: "Zoom meeting"
+  
+- presenter: Miachael Happ
+  date: 05.15.2020
+  paper: "Deep reinforcement learning and its neuroscientific implications,"
+  url: "https://www.youtube.com/watch?v=elF1T_UHcFs"
+  pdf: "None"
+  authors: "Matt Botvinick"
+  location: "Zoom meeting"
+
+- presenter: Sugandha Sharma
+  date: 05.08.2020
+  paper: "Neural mechanisms of spatial cognition,"
+  url: "https://www.youtube.com/watch?v=cTWL3eOL75A"
+  pdf: "None"
+  authors: "Neil Burgess"
+  location: "Zoom meeting"
+
+- presenter: Miachael Happ
+  date: 05.01.2020
+  paper: "Neural codes for natural behaviors in flying bats,"
+  url: "https://www.youtube.com/watch?v=HXTPWObEN2U"
+  pdf: "None"
+  authors: "Nachum Ulanovsky"
+  location: "Zoom meeting"
+  
+- presenter: Sugandha Sharma
+  date: 04.24.2020
+  paper: "Multiple maps for navigation,"
+  url: "https://www.youtube.com/watch?v=E3o7mfBm91E"
+  pdf: "None"
+  authors: "Lisa Giocomo"
+  location: "Zoom meeting"
+
+- presenter: Haozhe Shan 
+  date: 02.21.2020
+  paper: "Neural Tangent Kernel: Convergence and Generalization in Neural Networks,"
+  url: "https://arxiv.org/pdf/1806.07572.pdf"
+  pdf: "None"
+  authors: "Arthur Jacot, Franck Gabriel and Clement Hongler"
+  location: "Harvard (Northwest building, Room 353)"
+
+- presenter: Nayantara Mudur 
+  date: 02.07.2020
+  paper: "A model of temporal scaling correctly predicts that motor timing improves with speed,"
+  url: "https://www.nature.com/articles/s41467-018-07161-6"
+  pdf: "None"
+  authors: "Nicholas F. Hardy, Vishwa Goudar, Juan L. Romero-Sosa & Dean V. Buonomano"
+  location: "Harvard (Northwest building, Room 243)"
+
+- presenter: Eghbal Hosseini
+  date: 12.13.2019
+  paper: "Reverse engineering recurrent neural networks for sentiment classification reveals line attractor dynamics,"
+  url: "https://arxiv.org/pdf/1906.10720.pdf"
+  pdf: "None"
+  authors: "Surya Ganguli, David Sussilo et al. "
+  location: "Harvard (Northwest building, Room 243)"
+
+- presenter: Michael Happ
+  date: 12.06.2019
+  paper: "A Unifying Mechanistic Model of the AuditoryCortex with Inhibitory Subtypes,"
+  url: "https://www.biorxiv.org/content/biorxiv/early/2019/05/02/626358.full.pdf"
+  pdf: "None"
+  authors: "Youngmin Park and Maria N. Geffen"
+  location: "MIT (46-6199)"
+  
+- presenter: Rylan Schaeffer
+  date: 11.22.2019
+  paper: "Fundamental bounds on learning performance in neural circuits,"
+  url: "https://www.pnas.org/content/116/21/10537.long"
+  pdf: "None"
+  authors: "Raman, Rotondo and O'Leary"
+  location: "Harvard (Northwest building, Room 255)"
+  
+- presenter: Nhat Le
+  date: 11.15.2019
+  paper: "Prioritized memory access explains planning and hippocampal replay,"
+  url: "https://www.nature.com/articles/s41593-018-0232-z."
+  pdf: "None"
+  authors: "Marcelo G Mattar and Nathaniel D. Daw"
+  location: "MIT (46-6199)"
+  
+- presenter: Greta Tuckute and Alvince Pongos
+  date: 11.8.2019
+  paper: "Real-time decoding of question-and-answer speech dialogue using human cortical activity,"
+  url: "https://www.nature.com/articles/s41467-019-10994-4"
+  pdf: "None"
+  authors: "Moses et al."
+  location: "MIT (46-6199)"
+  
+- presenter: Mikail Khona
+  date: 11.1.2019
+  paper: "Stable memory with unstable synapses,"
+  url: "https://www.nature.com/articles/s41467-019-12306-2?fbclid=IwAR2oGn4LbRbTZGMooBwDweV57flWbL00KlgyBRoSpqcHsTS5I9NeCONIqx0"
+  pdf: "None"
+  authors: "Lee Susman, Naama Brener, and Omri Barak"
+  location: "Harvard (Northwest building, Room 255)"
+
+- presenter: Jungsoo Kim
+  date: 10.11.2019
+  paper: "Convergent Temperature Representations in Artificial and Biological Neural Networks,"
+  url: "https://www.cell.com/neuron/fulltext/S0896-6273(19)30601-4"
+  pdf: "None"
+  authors: "Martin Haesemeyer, Alexander F. Schier and Florian Engert"
+  location: "MIT (46-5193)"
+  
+- presenter: Sam Lewallen
+  date: 9.27.2019
+  paper: "Mathematical theorey of semantic development in deep neural networks,"
+  url: "https://www.pnas.org/content/116/23/11537"
+  pdf: "None"
+  authors: "Andrew M. Saxe, James L. McClelland and Surya Ganguli"
+  location: "MIT (46-6199)"
+  
+- presenter: Nimrod Shaham
+  date: 9.20.2019
+  paper: "Sparse Associative Memory,"
+  url: "https://www.mitpressjournals.org/doi/full/10.1162/neco_a_01181"
+  pdf: "None"
+  authors: "Heiko Hoffman"
+  location: "Harvard (Northwest building, Room 255)"
+  
+- presenter: Martin Schrimpf
+  date: 8.21.2019
+  paper: "Deep Networks and Pytorch"
+  url: "https://github.com/mschrimpf/pytorch_tutorial"
+  pdf: "None"
+  authors: ""
+  location: "MIT 46-1015"
+  
+- presenter: Eli Pollock
+  date: 8.7.2019
+  paper: "Training recurrent neural networks (RNNs) using FORCE "
+  url: "https://github.com/elipollock/fullforce_tutorial"
+  pdf: "None"
+  authors: ""
+  location: "MIT 46-3189"
+  
+- presenter: Alex Lew
+  date: 7.17.2019
+  paper: "Probabilistic programming languages"
+  url: "https://github.com/probcomp/gen-quickstart"
+  pdf: "None"
+  authors: ""
+  location: "Harvard"
+  
+- presenter: Ben Huh, Jennifer Hu and Peng Qian
+  date: 6.26.2019
+  paper: "Tutorial: Backpropagation through time in RNNs and LSTMs"
+  url: "https://github.com/compneurojc/compneurojc.github.io/wiki/Tutorials#june-26-2019-by-ben-huh-jennifer-hu-and-peng-qian"
+  pdf: "None"
+  authors: ""
+  location: "MIT 46-1015"
+  
+- presenter: Sugandha Sharma and Nhat Le
+  date: 6.12.2019
+  paper: "Tutorial: Building large scale neural models using the Nengo neural simulator"
+  url: "https://github.com/compneurojc/compneurojc.github.io/wiki/Tutorials#june-12-2019-by-sugandha-sharma-and-nhat-le"
+  pdf: "https://mindmodeling.org/cogsci2016/papers/0202/paper0202.pdf"
+  authors: ""
+  location: "Harvard"
+
+- presenter: Marc Howard<br><a href="https://www.dropbox.com/sh/nrrcihbws18nrz2/AAByyZCW8o1Y6vn5nSP0obQVa/Lecture%20Capture%20System?dl=0&preview=46-3189_20190530_124230.mp4&subfolder_nav_tracking=1">Link to video recording</a>
+  date: 5.30.2019
+  paper: "Compressed representation of time and space in the brain using the Laplace transform"
+  url: "None"
+  pdf:
+  authors: <br>*special research presentation*
+  location: "MIT 46-3310 (**note different location for this meeting**)"
+
+- presenter: Michael Happ
+  date: 5.23.2019
+  paper: "Task representations in neural networks trained to perform many cognitive tasks"
+  url: "https://www.nature.com/articles/s41593-018-0310-2"
+  pdf: "/pdf/Task representations in neural networks trained to perform many cognitive tasks.pdf"
+  authors: Yang, Joglekar, Song, Newsome, Wang
+  location: "Harvard"
+
+- presenter: Haozhe Shan
+  date: 4.25.2019
+  paper: "Deep Learning with Dynamic Spiking Neurons and Fixed Feedback Weights"
+  url: "https://www.mitpressjournals.org/doi/10.1162/NECO_a_00929"
+  pdf: "/pdf/Deep Learning with Dynamic Spiking Neurons and FixedFeedback Weights.pdf"
+  authors: Samadi, Lillicrap, Tweed
+  location: "Harvard"
+
+- presenter: Jungsoo Kim
+  date: 4.18.2019
+  paper: "Global Brain Dynamics Embed the Motor Command Sequence of Caenorhabditis elegans"
+  url: "https://www.cell.com/cell/fulltext/S0092-8674(15)01196-4"
+  pdf: "/pdf/Global Brain Dynamics Embed the Motor Command Sequence of Caenorhabditis elegans.pdf"
+  authors: Kato, Kaplan, Schr&ouml;, Skora, Lindsay, Yemini, Lockery, Zimmer
+  location: "MIT"
+
+- presenter: Lucy Lai
+  date: 4.11.2019
+  paper: "Reinforcement regulates timing variability in thalamus"
+  url: "https://www.biorxiv.org/content/biorxiv/early/2019/03/28/583328.full.pdf"
+  pdf: "/pdf/Reinforcement regulates timing variability in thalamus.pdf"
+  authors: Wang​​, Hosseini​, Meirhaeghe​, Akkad​, Jazayeri​​
+  location: "Harvard"
+
+- presenter: Eli Pollock
+  date: 4.4.2019
+  paper: "Prefrontal cortex as a meta-reinforcement learning system"
+  url: "https://www.nature.com/articles/s41593-018-0147-8"
+  pdf: "/pdf/Prefrontal cortex as a meta-reinforcement learning system.pdf"
+  authors: Wang, Kurth-Nelson, Kumaran, Tirumala, Soyer, Leibo, Hassabis, Botvinick
+  location: "Harvard"
+
+- presenter: Noga Weiss Mosheiff
+  date: 3.28.2019
+  paper: "Efficiency and stability of the modular grid cell code"
+  url: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005597"
+  pdf: "None"
+  authors: <br>*special research presentation*<br>
+  location: "MIT"
+
+- presenter: Michael Happ, Sugandha Sharma, Sam Lewallen
+  date: 3.21.2019
+  paper: "The emergence of multiple retinal cell types through efficient coding of natural movies"
+  url: "https://papers.nips.cc/paper/8150-the-emergence-of-multiple-retinal-cell-types-through-efficient-coding-of-natural-movies"
+  pdf: "/pdf/8150-the-emergence-of-multiple-retinal-cell-types-through-efficient-coding-of-natural-movies.pdf"
+  authors: Ocko*, Lindsey*, Ganguli, Deny
+  location: "MIT"
+
+- presenter: Ila Fiete
+  date: π.2019
+  paper: "A Flexible Model of Working Memory"
+  url: https://www.biorxiv.org/content/biorxiv/early/2018/09/04/407700.full.pdf
+  pdf: "/pdf/A Flexible Model of Working Memory.pdf"
+  authors: Bouchacourt, Buschman
+  location: "Harvard"
+
+- presenter: Ni Ji
+  date: 2.21.2019
+  paper: "Discrete attractor dynamics underlies persistent activity in the frontal cortex"
+  url: https://www.nature.com/articles/s41586-019-0919-7
+  pdf: "/pdf/Discrete attractor dynamics underlies persistent activity in the frontal cortex.pdf"
+  authors: Inagaki, Fontonal, Romani, Svoboda
+  location: "MIT"
+
+- presenter: Honi Sanders
+  date: 2.14.2019
+  paper: "Off-line replay maintains declarative memories in a model of hippocampal-neocortical interactions"
+  url: https://www.nature.com/articles/nn1202
+  pdf: "/pdf/Off-line replay maintains declarative memories in amodel of hippocampal-neocortical interactions.pdf"
+  authors: Kali, Dayan
+  location: "Harvard"
+
+- presenter: Nimrod Shaham
+  date: 2.7.2019
+  paper: "Long-Term Memory Stabilized by Noise-Induced Rehearsal"
+  url: http://www.jneurosci.org/content/34/47/15804
+  pdf: "/pdf/Long_Term_Memory_Stabilized_by_Noise.pdf"
+  authors: Alexei, Koulakov
+  location: "MIT"
+
+- presenter: Leo Kozachkov
+  date: 12.13.2018
+  paper: "Neuronal Circuits Underlying Persistent Representations Despite Time Varying Activity"
+  url: https://www.sciencedirect.com/science/article/pii/S0960982212010810
+  pdf: "/pdf/Neuronal Circuits Underlying Persistent Representations Despite Time Varying Activity.pdf"
+  authors: Druckmann, Chklovskii
+  location: "MIT"
+
+- presenter: Michael Happ
+  date: 12.6.2018
+  paper: "Learning arbitrary dynamics in efficient, balanced
+spiking networks using local plasticity rules"
+  url: https://arxiv.org/abs/1705.08026
+  pdf: /pdf/1705.08026.pdf
+  authors: Alemi, Machens, Denève, Slotine
+  location: "Harvard"
+
+- presenter: Sam Lewallen
+  date: 11.27.2018
+  paper: "Opening the black box: low-dimensional dynamics in high-dimensional recurrent neural networks"
+  authors: Sussillo, Barak
+  url: https://www.ncbi.nlm.nih.gov/pubmed/23272922
+  pdf: /pdf/NECO_a_00409.pdf
+  location: "MIT (46-5056, special location for first meeting)"
